@@ -1,0 +1,17 @@
+
+
+
+
+body{
+    height: 100vh;
+background-image: url('mesh-gradient.png');
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+}
+
+table,td,th{
+    border: 2px solid black;
+    border-radius: 5px;
+    border-collapse: collapse;
+}
